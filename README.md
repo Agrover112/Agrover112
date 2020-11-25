@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 ## Hey there!
 Understanding machines 💻
+I love the process of recreation and learning🔧
