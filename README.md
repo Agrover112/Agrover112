@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 Understanding machines 💻
 
 
-I love the process of recreation and learning🔧
+I love the process of re-implementation and learning🔧
