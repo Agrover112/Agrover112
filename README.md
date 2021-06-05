@@ -17,3 +17,5 @@ Understanding machines 💻
 
 
 I love the process of implementation and learning🔧
+
+Currently meta-learning
