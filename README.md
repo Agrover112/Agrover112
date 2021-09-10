@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 Understanding machines 💻
 
 
-I love the process of implementation and learning🔧
-
-Currently meta-learning
+Python is all you need yea,really...as of now at least...
