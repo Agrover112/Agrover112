@@ -16,4 +16,15 @@ Here are some ideas to get you started:
 Understanding machines 💻
 
 
-Python is all you need yea,really...as of now at least...
+
+Main: I'm currently maintaining Awesome Semantic Search and fliscopt : a Flight Scheduling Optimizationg Library supporting Python and Pypy!
+
+
+
+- 🌱 I’m currently learning Julia, etc.
+- 👯 I’m looking to collaborate on anyting as long as it is interesting and I have time.
+- 🤔 I’m looking for help with  fliscopt's documentation!
+-  📫 How to reach me:  Twitter!
+-  Trying to understand why Python's drawbacks.
+
+And having a bad sleep schedule XD.
