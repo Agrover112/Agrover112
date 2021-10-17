@@ -25,6 +25,6 @@ Main: I'm currently maintaining Awesome Semantic Search and fliscopt : a Flight 
 - 👯 I’m looking to collaborate on anyting as long as it is interesting and I have time.
 - 🤔 I’m looking for help with  fliscopt's documentation!
 -  📫 How to reach me:  Twitter!
--  Trying to understand why Python's drawbacks.
+-  Trying to understand Python's drawbacks.
 
 And having a bad sleep schedule XD.
