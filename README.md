@@ -17,8 +17,7 @@ Understanding machines 💻
 
 
 
-Main: I'm currently maintaining Awesome Semantic Search and fliscopt : a Flight Scheduling Optimizationg Library supporting Python and Pypy!
-
+Main: I'm currently maintaining Awesome Semantic Search.
 
 
 - 🌱 I’m currently learning Julia, etc.
@@ -26,5 +25,3 @@ Main: I'm currently maintaining Awesome Semantic Search and fliscopt : a Flight 
 - 🤔 I’m looking for help with  fliscopt's documentation!
 -  📫 How to reach me:  Twitter!
 -  Trying to understand Python's drawbacks.
-
-And having a bad sleep schedule XD.
