@@ -20,8 +20,7 @@ Understanding machines 💻
 Main: I'm currently maintaining Awesome Semantic Search.
 
 
-- 🌱 I’m currently learning Julia, etc.
-- 👯 I’m looking to collaborate on anyting as long as it is interesting and I have time.
-- 🤔 I’m looking for help with  fliscopt's documentation!
--  📫 How to reach me:  Twitter!
+- 🌱 I’m currently coding in Bash scripts 
+- 👯 I’m open to jobs provided I don't get whiteboarded.
+-  📫 How to reach me:  agrover112@gmail.com
 -  Trying to understand Python's drawbacks.
