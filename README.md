@@ -24,3 +24,5 @@ Main: I'm currently maintaining Awesome Semantic Search.
 - 👯 I’m open to jobs provided I don't get whiteboarded.
 -  📫 How to reach me:  agrover112@gmail.com
 -  Trying to understand Python's drawbacks.
+
+I occassionally write blogs here(will shift ) and on [Medium](https://medium.com/@agrover112) and am open to  **Paid blogging opportunities**
