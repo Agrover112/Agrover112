@@ -25,4 +25,6 @@ Main: I'm currently maintaining Awesome Semantic Search.
 -  📫 How to reach me:  agrover112@gmail.com
 -  Trying to understand Python's drawbacks.
 
-I occassionally write blogs here(will shift ) and on [Medium](https://medium.com/@agrover112) and am open to  **Paid blogging and freelancing opportunities**
+I occassionally write blogs here(will shift ) and on [Medium](https://medium.com/@agrover112) and am open to  **Paid blogging and freelancing opportunities**.
+
+If you are a startup and working on interesting stuff and looking to hire new team-members , I would be down to have a conversation.
