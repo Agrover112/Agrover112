@@ -20,8 +20,8 @@ Understanding machines 💻
 Main: I'm currently maintaining Awesome Semantic Search.
 
 
-- 🌱 I’m currently coding in Bash scripts 
-- 👯 I’m open to jobs provided I don't get whiteboarded.
+- 🌱 I’m currently doing research which involves using a lot of  Bash scripting. 
+- 👯 I’m open to jobs & other opportunities.
 -  📫 How to reach me:  agrover112@gmail.com
 -  Trying to understand Python's drawbacks.
 
