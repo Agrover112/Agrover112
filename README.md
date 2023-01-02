@@ -19,7 +19,6 @@ Understanding machines 💻
 
 Main: Looking for a mainter for Awesome Semantic Search 
 
-- 🌱 I’m currently doing research which involves using a lot of  Bash scripting. 
 -  📫 How to reach me:  agrover112@gmail.com
 
 I occassionally write blogs here(will shift ) and on [Medium](https://medium.com/@agrover112) and am open to  **Paid opportunities**.
