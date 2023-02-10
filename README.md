@@ -21,5 +21,5 @@ Main: Looking for a mainter for Awesome Semantic Search
 
 -  📫 How to reach me:  agrover112@gmail.com
 
-I occassionally write blogs here(will shift ) and on [Medium](https://medium.com/@agrover112) and am open to  **Paid opportunities**.
+I occassionally write blogs on [Medium](https://medium.com/@agrover112) or on Twitter.
 
