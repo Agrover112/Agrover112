@@ -17,7 +17,7 @@ Understanding machines 💻
 
 
 
-Main: Looking for a mainter for Awesome Semantic Search 
+Main: Looking for more additions(Pull Requests)  for Awesome Semantic Search 
 
 -  📫 How to reach me:  agrover112@gmail.com
 
