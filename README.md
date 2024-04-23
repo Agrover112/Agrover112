@@ -23,3 +23,5 @@ Main: Looking for more additions(Pull Requests)  for Awesome Semantic Search
 
 I occassionally write blogs on [Medium](https://medium.com/@agrover112) or on Twitter.
 
+Some cool stuff:
+- [Human Visual Perception](https://github.com/Agrover112/DM2350-Human-Perception)
