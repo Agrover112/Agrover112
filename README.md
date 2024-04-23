@@ -25,4 +25,5 @@ I occassionally write blogs on [Medium](https://medium.com/@agrover112) or on Tw
 
 Some cool stuff:
 - [Human Visual Color Perception of Grocery Products](https://github.com/Agrover112/DM2350-Human-Perception)
+- [Task Engagement's Effect on Neuron Activations of Mice lol](https://github.com/Agrover112/nma-cn-project)
 - [2-stage Semantic-Search on CORD-19 Papers](https://github.com/Agrover112/context_rank)
