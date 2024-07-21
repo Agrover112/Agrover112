@@ -24,6 +24,7 @@ Main: Looking for more additions(Pull Requests)  for Awesome Semantic Search
 I occassionally write blogs on [Medium](https://medium.com/@agrover112) or on Twitter.
 
 Some cool projects:
+- [Fair Link Prediction: Movie recommendations using GNNs made fairer wrt Gender](https://github.com/Agrover112/Fair-Link-Prediction)
 - [ABCViz: A Breast Cancer Visualization Tool built with and for Radiologists](https://abc-viz.vercel.app/)
 - [Effect of Color on Sustainability Perception of Grocery Products](https://github.com/Agrover112/DM2350-Human-Perception)
 - [Task Engagement's Effect on Neuronal Activations of Mice lol](https://github.com/Agrover112/nma-cn-project)
